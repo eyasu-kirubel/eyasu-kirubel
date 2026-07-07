@@ -1,16 +1,13 @@
-## Hi there 👋
+# 📫 Connect With Me
 
-<!--
-**eyasu-kirubel/eyasu-kirubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Email:** **eyasukirubel01@gmail.com**
 
-Here are some ideas to get you started:
+💬 **Telegram:** **+251 962 728 120**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Location:** Ethiopia 🇪🇹
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
